@@ -1,0 +1,10 @@
+{
+  "DE": [
+    { "from": 0, "to": 4999, "price": 5.9, "label": "DHL Standard" },
+    { "from": 5000, "to": 999999, "price": 0, "label": "Kostenfrei ab 50 €" }
+  ],
+  "AT": [
+    { "from": 0, "to": 6999, "price": 7.9, "label": "DPD Classic" },
+    { "from": 7000, "to": 999999, "price": 0, "label": "Kostenfrei ab 70 €" }
+  ]
+}
